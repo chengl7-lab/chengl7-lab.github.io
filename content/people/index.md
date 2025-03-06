@@ -39,8 +39,8 @@
 ## Alumni
 
 ### Former Master's Students
-- [Tien Le]() (2022-2023) 
-- [Huy Nguyen]() (2022-2023) 
+- [Tien Le ]()(2022-2023) 
+- [Huy Nguyen ]()(2022-2023) 
 
 ## Join Our Team
 

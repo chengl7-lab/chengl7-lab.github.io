@@ -1,47 +1,56 @@
 # Publications
 
+## 2025
+
+### Raw signal segmentation for estimating RNA modifications and structures from Nanopore direct RNA sequencing data
+
+**Authors**: Cheng, Guangzhao, Vehtari, Aki, Cheng, Lu
+
+**Journal**: *eLife(accepted, to appear)* 
+
+**DOI**: [10.7554/eLife.104618.1](https://doi.org/10.7554/eLife.104618.1)
+
+**Publisher**: eLife Sciences Publications, Ltd
+
+---
+
+### KMAP: Kmer Manifold Approximation and Projection for visualizing DNA sequences
+
+**Authors**: Fu, Chengbo, Niskanen, Einari A, Wei, Gong-Hong, Yang, Zhirong, Sanvicente-García, Marta, Güell, Marc, Cheng, Lu
+
+**Journal**: *Genome Research(accepted, to appear)* 
+
+**DOI**: [10.1101/2024.04.12.589197](https://doi.org/10.1101/2024.04.12.589197)
+
+**Publisher**: Cold Spring Harbor Laboratory
+
+---
+
+
 ## 2024
 
-### Advanced Methods for Single-cell Analysis
+### NanoBaseLib: A Multi-Task Benchmark Dataset for Nanopore Sequencing
 
-**Authors**: Smith, John, Johnson, Mike, Lu, Cheng
+**Authors**: Cheng, Guangzhao, Fu, Chengbo, Cheng, Lu
 
-**Journal**: *Nature Methods* 21(3): 123--135
+**Journal**: *Advances in Neural Information Processing Systems (NeurIPS 2024)* 37
 
-**DOI**: [10.1038/s41592-024-00000-0](https://doi.org/10.1038/s41592-024-00000-0)
+**Link**: [NeurIPS Proceedings](https://papers.nips.cc/paper_files/paper/2024/hash/8bce223b376f52fb86a148097eebb10d-Abstract-Datasets_and_Benchmarks_Track.html)
 
-**Publisher**: Nature Publishing Group
-
----
-
-
-## 2023
-
-### Novel Approaches in Metagenomics
-
-**Authors**: Wilson, Sarah, Brown, Alice, Lu, Cheng
-
-**Journal**: *Genome Biology* 24(2): 45--57
-
-**DOI**: [10.1186/s13059-023-00000-0](https://doi.org/10.1186/s13059-023-00000-0)
-
-**Publisher**: BioMed Central
+**Publisher**: Curran Associates, Inc.
 
 ---
 
+### Driver gene detection via causal inference on single cell embeddings
 
-## 2022
+**Authors**: Fu, Chengbo, Cheng, Lu
 
-### Machine Learning in Genomics
+**Journal**: *CIBB 2024(accepted, to appear)* 
 
-**Authors**: Doe, John, Smith, Jane, Lu, Cheng
+**DOI**: [10.1101/2024.05.16.24307521](https://doi.org/10.1101/2024.05.16.24307521)
 
-**Journal**: *Bioinformatics* 38(5): 789--801
-
-**DOI**: [10.1093/bioinformatics/btac000](https://doi.org/10.1093/bioinformatics/btac000)
-
-**Publisher**: Oxford University Press
+**Publisher**: 19th conference on Computational Intelligence methods for Bioinformatics and Biostatistics
 
 ---
-*Last updated: March 2025*
+
 
