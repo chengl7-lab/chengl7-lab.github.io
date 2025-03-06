@@ -9,12 +9,16 @@
 
 ## Current Members
 
+<!--
 ### Postdoctoral Researchers
 - [Dr. John Doe](/people/john-doe)
   - Research Focus: Single-cell RNA-seq Analysis
   - Email: john.doe@uef.fi
+-->
 
 ### PhD Students
+
+<!--
 - [Jane Smith](/people/jane-smith)
   - Research Focus: Metagenomics
   - Email: jane.smith@uef.fi
@@ -22,6 +26,7 @@
 - [Mike Johnson](/people/mike-johnson)
   - Research Focus: Epigenetics
   - Email: mike.johnson@uef.fi
+-->
 
 - [Guangzhao Cheng](/people/guangzhao-cheng)
   - Research Focus: RNA modification estimation using Nanopore data
@@ -31,10 +36,12 @@
   - Research Focus: LLM for scRNA-seq data, k-mer manifold
   - Email: chengbo.fu@aalto.fi
 
+<!--
 ### Master's Students
 - [Sarah Wilson](/people/sarah-wilson)
   - Research Focus: Machine Learning in Genomics
   - Email: sarah.wilson@uef.fi
+-->
 
 ## Alumni
 
