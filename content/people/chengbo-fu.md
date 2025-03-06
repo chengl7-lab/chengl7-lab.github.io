@@ -1,7 +1,7 @@
 # Chengbo Fu
 
 ## Position
-Postdoctoral Researcher
+Doctoral Researcher
 
 ## Contact
 - **Email**: chengbo.fu@aalto.fi
