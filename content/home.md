@@ -33,4 +33,4 @@ Please visit our [People](/people) page to learn more about current opportunitie
 
 
 ---
-*Last updated: Maaliskuu 2025*
+*Last updated: March 2025*

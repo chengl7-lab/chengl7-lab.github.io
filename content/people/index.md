@@ -50,4 +50,4 @@ We are always looking for talented researchers to join our team. If you're inter
 Please send your CV and a brief statement of research interests to cheng.lu@uef.fi
 
 ---
-*Last updated: Maaliskuu 2025*
+*Last updated: March 2025*

@@ -23,4 +23,4 @@ The Ace and phylogenetic diversity (PD) index were significantly lower in the th
 
 <!--EndFragment-->
 ---
-*Last updated: Maaliskuu 2025*
+*Last updated: March 2025*

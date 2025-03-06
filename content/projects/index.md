@@ -23,4 +23,4 @@ Creating novel computational tools for metagenomic analysis.
 Development of a framework for analyzing epigenetic data. 
 
 ---
-*Last updated: Maaliskuu 2025*
+*Last updated: March 2025*

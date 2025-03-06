@@ -11,4 +11,4 @@ banner:
 ---
 
 ---
-*Last updated: Maaliskuu 2025*
+*Last updated: March 2025*

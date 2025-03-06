@@ -14,4 +14,4 @@ Welcome to our new postdoctoral researcher, Dr. Jane Smith.
 **Date**: January 10, 2024  
 Our weekly lab meetings will now be held every Monday at 2 PM. 
 ---
-*Last updated: Maaliskuu 2025*
+*Last updated: March 2025*

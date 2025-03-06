@@ -155,4 +155,4 @@ Each content section (news, people, projects, publications) follows a consistent
    - Optimize images for web display
 
 ---
-*Last updated: Maaliskuu 2025*
+*Last updated: March 2025*

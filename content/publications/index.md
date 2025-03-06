@@ -43,5 +43,5 @@
 **Publisher**: Oxford University Press
 
 ---
-*Last updated: Maaliskuu 2025*
+*Last updated: March 2025*
 

@@ -24,4 +24,4 @@ The full paper can be accessed [here](https://doi.org/...).
 - [Supplementary Materials](/news/paper-supplementary-2024)
 - [Press Release](/news/paper-press-release-2024) 
 ---
-*Last updated: Maaliskuu 2025*
+*Last updated: March 2025*

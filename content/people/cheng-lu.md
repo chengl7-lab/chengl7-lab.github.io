@@ -69,7 +69,7 @@ I am the Principal Investigator (Academy Research Fellow) leading the Computatio
   + Microbiology Spectrum
 
 ---
-*Last updated: Maaliskuu 2025*
+*Last updated: March 2025*
 
 [Back to Lab Members](/people)  
  

@@ -32,6 +32,6 @@ Dr. John Doe joined the Computational Genomics Lab in 2023 as a Postdoctoral Res
 - Guest Lecturer, Single-cell Analysis Course (Fall 2023)
 
 ---
-*Last updated: Maaliskuu 2025*
+*Last updated: March 2025*
 
 [Back to Lab Members](/people) 
