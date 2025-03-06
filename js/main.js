@@ -10,18 +10,16 @@ marked.setOptions({
 });
 
 // Get the base URL for GitHub Pages
-const baseUrl = window.location.hostname === 'localhost' 
-    ? '' 
-    : '.';  // Use relative path for GitHub Pages
+const baseUrl = '';  // Use empty string since we'll use relative paths from root
 
 // Function to load markdown content
 async function loadMarkdownContent(section, page = 'index') {
     try {
         let path;
         if (section === 'home') {
-            path = `${baseUrl}/content/home.md`;
+            path = 'content/home.md';
         } else {
-            path = `${baseUrl}/content/${section}/${page}.md`;
+            path = `content/${section}/${page}.md`;
         }
             
         console.log('Loading content from:', path); // Debug log
