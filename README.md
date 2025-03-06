@@ -84,13 +84,60 @@ To use the publication script:
 
 ## Local Development
 
-To test the website locally:
+This repository includes a development server with live file watching capabilities to make local development easier.
 
-1. Install a local web server (e.g., Python's `http.server`):
+### Prerequisites
+
+- Python 3.x
+- pip (Python package installer)
+
+### Setup
+
+1. Install the required Python packages:
    ```bash
-   python -m http.server 8000
+   pip install -r requirements.txt
    ```
-2. Open your browser and navigate to `http://localhost:8000`
+
+### Running the Development Server
+
+1. Start the server:
+   ```bash
+   python3 scripts/dev_server.py
+   ```
+
+2. Your default web browser will automatically open to `http://localhost:8000`
+
+### Development Features
+
+The development server provides several helpful features:
+- 🔄 Auto-detection of file changes
+- 📝 Proper handling of markdown files
+- 🌐 Automatic browser opening
+- 🚀 Instant preview of changes
+
+### How to Use
+
+1. Keep the development server running in your terminal
+2. Edit your files in your preferred editor:
+   - Markdown files in `content/`
+   - HTML files
+   - CSS in `css/`
+   - JavaScript in `js/`
+3. Save your changes
+4. Refresh your browser to see the updates
+5. Press `Ctrl+C` in the terminal to stop the server
+
+### Troubleshooting
+
+If you see "Address already in use" error:
+- Another process might be using port 8000
+- Edit `PORT` in `scripts/dev_server.py` to use a different port
+- Restart the development server
+
+If changes aren't showing:
+- Make sure you've refreshed your browser
+- Check the terminal for any error messages
+- Clear your browser cache (Ctrl+F5 or Cmd+Shift+R)
 
 ## GitHub Pages Setup
 
