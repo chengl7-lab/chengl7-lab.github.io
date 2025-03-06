@@ -12,7 +12,7 @@ marked.setOptions({
 // Get the base URL for GitHub Pages
 const baseUrl = window.location.hostname === 'localhost' 
     ? '' 
-    : '/chengl7-lab.github.io';  // Explicitly set repository name for GitHub Pages
+    : '.';  // Use relative path for GitHub Pages
 
 // Function to load markdown content
 async function loadMarkdownContent(section, page = 'index') {
