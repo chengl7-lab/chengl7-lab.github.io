@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Get current date
-current_date="$(date '+%B %Y')"
+# Get current date with English locale
+current_date="$(LC_ALL=en_US.UTF-8 date '+%B %Y')"
 
 # Check if date is empty
 if [ -z "$current_date" ]; then
