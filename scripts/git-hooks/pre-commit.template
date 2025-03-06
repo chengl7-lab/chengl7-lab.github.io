@@ -1,0 +1,35 @@
+#!/bin/bash
+
+# Get current date
+current_date="$(date '+%B %Y')"
+
+# Check if date is empty
+if [ -z "$current_date" ]; then
+    echo "Error: Could not get current date"
+    current_date="March 2025"  # Fallback date
+fi
+
+# Get list of staged markdown files
+files=$(git diff --cached --name-only --diff-filter=ACM "*.md")
+
+if [ -n "$files" ]; then
+    for file in $files; do
+        # Check if file contains the Last updated line
+        if grep -q "^\*Last updated:" "$file"; then
+            # Replace existing date (compatible with both macOS and Linux)
+            if [[ "$OSTYPE" == "darwin"* ]]; then
+                # macOS version
+                sed -i '' "s/^\*Last updated:.*/*Last updated: $current_date*/" "$file"
+            else
+                # Linux version
+                sed -i "s/^\*Last updated:.*/*Last updated: $current_date*/" "$file"
+            fi
+        else
+            # Add date line if it doesn't exist
+            echo -e "\n---\n*Last updated: $current_date*" >> "$file"
+        fi
+        
+        # Stage the modified file
+        git add "$file"
+    done
+fi 
