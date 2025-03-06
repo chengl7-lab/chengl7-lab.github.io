@@ -13,8 +13,10 @@ We are dedicated to advancing the field of computational genomics through innova
 ## Latest News
 
 ### Recent Publications
-- [Paper Title 1](link-to-paper) - Published in Nature
-- [Paper Title 2](link-to-paper) - Published in Science
+- [KMAP: Kmer Manifold Approximation and Projection for visualizing DNA sequences](https://doi.org/10.1101/2024.04.12.589197) - Accepted by *Genome Research*!
+- [Raw signal segmentation for estimating RNA modifications and structures from Nanopore direct RNA sequencing data](https://elifesciences.org/reviewed-preprints/104618v1) - Accepted by *eLife*!
+- [NanoBaseLib: A Multi-Task Benchmark Dataset for Nanopore Sequencing](https://papers.nips.cc/paper_files/paper/2024/hash/8bce223b376f52fb86a148097eebb10d-Abstract-Datasets_and_Benchmarks_Track.html) - Accepted by *NeurIPS 2024*!
+
 
 ### Upcoming Events
 - Lab Meeting: Every Monday at 2 PM
