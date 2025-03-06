@@ -23,6 +23,14 @@
   - Research Focus: Epigenetics
   - Email: mike.johnson@uef.fi
 
+- [Guangzhao Cheng](/people/guangzhao-cheng)
+  - Research Focus: RNA modification estimation using Nanopore data
+  - Email: guangzhao.cheng@aalto.fi
+
+- [Chengbo Fu](/people/chengbo-fu)
+  - Research Focus: LLM for scRNA-seq data, k-mer manifold
+  - Email: chengbo.fu@aalto.fi
+
 ### Master's Students
 - [Sarah Wilson](/people/sarah-wilson)
   - Research Focus: Machine Learning in Genomics
@@ -30,13 +38,9 @@
 
 ## Alumni
 
-### Former Postdocs
-- [Dr. Alice Brown](/people/alice-brown) (2020-2022)
-  - Current Position: Research Scientist at Company X
-
-### Former PhD Students
-- [Bob Wilson](/people/bob-wilson) (2018-2022)
-  - Current Position: Postdoctoral Researcher at University Y
+### Former Master's Students
+- [Tien Le](2022-2023) 
+- [Huy Nguyen](2022-2023) 
 
 ## Join Our Team
 
