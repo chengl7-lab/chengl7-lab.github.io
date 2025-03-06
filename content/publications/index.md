@@ -6,7 +6,7 @@
 
 **Authors**: Cheng, Guangzhao, Vehtari, Aki, Cheng, Lu*
 
-**Journal**: *eLife* 
+**Journal**: *eLife(accepted, to appear)* 
 
 **DOI**: [10.7554/eLife.104618.1](https://doi.org/10.7554/eLife.104618.1)
 

@@ -2,16 +2,20 @@
 
 ## Latest Updates
 
-### [New Paper Published](/news/paper-published-2024)
-**Date**: March 5, 2024  
-Our latest paper on single-cell analysis has been published in Nature Methods.
+### [Nguyen Huy graduated !](/news/paper-published-2024)
+**Date**: Feb 12, 2024
+Nguyen Huy has graduated on 29.12.2023 and will start his endeavor in the SPARK program. Thesis: Application of Gaussian processes in circadian rhythm detection. Congratulations to Nguyen!
 
-### [New Team Member](/news/new-team-member-2024)
-**Date**: February 15, 2024  
-Welcome to our new postdoctoral researcher, Dr. Jane Smith.
+### [Tien Le's thesis is accepted !]()
+**Date**: Sep 1, 2023
+Tien Le's thesis "Alternative polyadenylation events estimation from single-cell RNA sequencing data in Schizophrenia" has been accepted. She will start as a Junior software developer in Euformatics. Congratulations to Tien!
 
-### [Lab Meeting Schedule](/news/lab-meeting-2024)
-**Date**: January 10, 2024  
-Our weekly lab meetings will now be held every Monday at 2 PM. 
+### [One paper is accpeted by *Nucleic Acids Research* !]()
+**Date**: Jul 21, 2022
+Our paper about estimating alternative polyadenylation (APA) from scRNA-seq has been accepted by Nucleic Acids Research.
+
+### [One paper is accpeted by *Journal of Oral Microbiology* !]()
+**Date**: Jul 21, 2022
+Our paper about oral microbiota in pregenant women is published in Journal of Oral Microbiology.
 ---
 *Last updated: March 2025*
