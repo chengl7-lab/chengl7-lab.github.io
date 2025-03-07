@@ -26,6 +26,16 @@
 
 ---
 
+### Driver gene detection via causal inference on single cell embeddings 
+
+**Authors**: Chengbo Fu and Lu Cheng*
+
+**Journal**: *19th conference on Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB), 2024(accepted, to appear)* 
+
+**DOI**: [10.1101/2024.05.16.24307521](https://www.medrxiv.org/content/10.1101/2024.05.16.24307521v1.full.pdf)
+
+---
+
 
 ## 2024
 
