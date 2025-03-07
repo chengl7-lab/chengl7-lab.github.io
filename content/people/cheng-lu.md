@@ -49,6 +49,8 @@ I am the Principal Investigator (Academy Research Fellow) leading the Computatio
 
 **Publisher**: eLife Sciences Publications, Ltd
 
+**Year**: 2025
+
 ---
 
 ### KMAP: Kmer Manifold Approximation and Projection for visualizing DNA sequences
@@ -60,6 +62,8 @@ I am the Principal Investigator (Academy Research Fellow) leading the Computatio
 **DOI**: [10.1101/2024.04.12.589197](https://doi.org/10.1101/2024.04.12.589197)
 
 **Publisher**: Cold Spring Harbor Laboratory
+
+**Year**: 2025
 
 ---
 
@@ -73,6 +77,8 @@ I am the Principal Investigator (Academy Research Fellow) leading the Computatio
 
 **Publisher**: Curran Associates, Inc.
 
+**Year**: 2024
+
 ---
 
 ### SCAPE: a mixture model revealing single-cell polyadenylation diversity and cellular dynamics during cell differentiation and reprogramming
@@ -82,6 +88,8 @@ I am the Principal Investigator (Academy Research Fellow) leading the Computatio
 **Journal**: *Nucleic Acids Research*
 
 **Link**: [10.1093/nar/gkac167](https://doi.org/10.1093/nar/gkac167)
+
+**Year**: 2022
 
 ---
 
@@ -93,9 +101,11 @@ I am the Principal Investigator (Academy Research Fellow) leading the Computatio
 
 **Link**: [10.1038/s41467-019-09785-8](https://doi.org/10.1038/s41467-019-09785-8)
 
+**Year**: 2019
+
 ---
 
-Full publication list in [Google Scholar]([10.1038/s41467-019-09785-8](https://doi.org/10.1038/s41467-019-09785-8))
+Full publication list in [Google Scholar](https://scholar.google.fi/citations?user=Zy14QK0AAAAJ&hl=en)
 
 ---
 
