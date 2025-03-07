@@ -30,11 +30,11 @@
 
 - [Guangzhao Cheng](/people/guangzhao-cheng)
   - Research Focus: RNA modification estimation using Nanopore data
-  - Email: guangzhao.cheng@aalto.fi
+  - Email: guangzhao dot cheng at aalto dot fi
 
 - [Chengbo Fu](/people/chengbo-fu)
   - Research Focus: LLM for scRNA-seq data, k-mer manifold
-  - Email: chengbo.fu@aalto.fi
+  - Email: chengbo dot fu at aalto dot fi
 
 <!--
 ### Master's Students
