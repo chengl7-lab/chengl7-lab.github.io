@@ -38,9 +38,67 @@ I am the Principal Investigator (Academy Research Fellow) leading the Computatio
 - B.Sc., Department of Computer Science, Wuhan University, 2007
 
 ## Selected Publications
-1. **Lu, C.** et al. (2023). Novel approaches in single-cell analysis. *Nature Methods*.
-2. **Lu, C.** et al. (2022). Machine learning in genomics. *Bioinformatics*.
-3. **Lu, C.** et al. (2021). Statistical methods for metagenomics. *Genome Biology*.
+
+### Raw signal segmentation for estimating RNA modification from Nanopore direct RNA sequencing data
+
+**Authors**: Cheng, Guangzhao, Vehtari, Aki, Cheng, Lu*
+
+**Journal**: *eLife* 
+
+**DOI**: [10.7554/elife.104618.1](https://doi.org/10.7554/elife.104618.1)
+
+**Publisher**: eLife Sciences Publications, Ltd
+
+---
+
+### KMAP: Kmer Manifold Approximation and Projection for visualizing DNA sequences
+
+**Authors**: Fu, Chengbo, Niskanen, Einari A, Wei, Gong-Hong, Yang, Zhirong, Sanvicente-García, Marta, Güell, Marc, Cheng, Lu*
+
+**Journal**: *Genome Research(accepted, to appear)* 
+
+**DOI**: [10.1101/2024.04.12.589197](https://doi.org/10.1101/2024.04.12.589197)
+
+**Publisher**: Cold Spring Harbor Laboratory
+
+---
+
+### NanoBaseLib: A Multi-Task Benchmark Dataset for Nanopore Sequencing
+
+**Authors**: Cheng, Guangzhao, Fu, Chengbo, Cheng, Lu*
+
+**Journal**: *Advances in Neural Information Processing Systems (NeurIPS)* 37
+
+**Link**: [NeurIPS Proceedings](https://papers.nips.cc/paper_files/paper/2024/hash/8bce223b376f52fb86a148097eebb10d-Abstract-Datasets_and_Benchmarks_Track.html)
+
+**Publisher**: Curran Associates, Inc.
+
+---
+
+### SCAPE: a mixture model revealing single-cell polyadenylation diversity and cellular dynamics during cell differentiation and reprogramming
+
+**Authors**: R. Zhou, X. Xiao, P. He, Y. Zhao, M. Xu, X. Zheng, R. Yang, S. Chen, L. Zhou, D. Zhang, Q. Yang, J. Song, C. Tang, Y. Zhang, J.-W. Lin*, L. Cheng* and L. Chen*, 
+
+**Journal**: *Nucleic Acids Research*
+
+**Link**: [10.1093/nar/gkac167](https://doi.org/10.1093/nar/gkac167)
+
+---
+
+### An additive Gaussian process regression model for interpretable non-parametric analysis of longitudinal data
+
+**Authors**: L. Cheng*, S. Ramchandran, T. Vatanen, N. Lietzén, R. Lahesmaa, A. Vehtari and H. Lähdesmäki*
+
+**Journal**: *Nature Communications*
+
+**Link**: [10.1038/s41467-019-09785-8](https://doi.org/10.1038/s41467-019-09785-8)
+
+---
+
+Full publication list in [Google Scholar]([10.1038/s41467-019-09785-8](https://doi.org/10.1038/s41467-019-09785-8))
+
+---
+
 
 ## Current Projects
 - LLM for scRNA-seq data

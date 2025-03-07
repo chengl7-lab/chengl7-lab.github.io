@@ -4,7 +4,7 @@
 
 ### [Dr. Cheng Lu](/people/cheng-lu)
 **Position**: Principal Investigator (Academy Research Fellow)  
-**Email**: cheng.lu@aalto.fi  
+**Email**: lu dot cheng dot ac at gmail dot com
 **Research Interests**: Single cell bioinformatics, Metagenomics, Machine Learning, Bayesian statistics
 
 ## Current Members
