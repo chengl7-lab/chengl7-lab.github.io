@@ -2,6 +2,19 @@
 
 ## Latest Updates
 
+
+### [One paper is accpeted by *eLife*!]()
+**Date**: Mar 07, 2025
+Our paper, Raw signal segmentation for estimating RNA modifications and structures from Nanopore direct RNA sequencing data, is accepted by eLife!
+
+### [One paper is accpeted by *Genome Research*!]()
+**Date**: Mar 01, 2025
+Our paper, KMAP: Kmer Manifold Approximation and Projection for visualizing DNA sequences, is accepted by Genome Research!
+
+### [One paper is accpeted by *NeurIPS*!]()
+**Date**: Sep 26, 2024
+Our paper, NanoBaseLib: A Multi-Task Benchmark Dataset for Nanopore Sequencing is by NeurIPS 2024!
+
 ### [Nguyen Huy graduated!]()
 **Date**: Feb 12, 2024
 Nguyen Huy has graduated on 29.12.2023 and will start his endeavor in the SPARK program. Thesis: Application of Gaussian processes in circadian rhythm detection. Congratulations to Nguyen!
