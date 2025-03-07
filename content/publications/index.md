@@ -4,7 +4,7 @@
 
 ### Raw signal segmentation for estimating RNA modification from Nanopore direct RNA sequencing data
 
-**Authors**: Cheng, Guangzhao, Vehtari, Aki, Cheng, Lu
+**Authors**: Cheng, Guangzhao, Vehtari, Aki, Cheng, Lu*
 
 **Journal**: *eLife* 
 
@@ -59,7 +59,7 @@
 
 **Journal**: *Ecotoxicology and Environmental Safety* 278
 
-**DOI**: [](https://doi.org/)
+**DOI**: [10.1016/j.ecoenv.2024.116428](https://doi.org/10.1016/j.ecoenv.2024.116428)
 
 **Publisher**: Elsevier
 
@@ -74,7 +74,7 @@
 
 **Journal**: *Scientific Reports* 13(1): 15941
 
-**DOI**: [](https://doi.org/)
+**DOI**: [10.1038/s41598-023-43039-4](https://doi.org/10.1038/s41598-023-43039-4)
 
 **Publisher**: Nature Publishing Group UK London
 
@@ -89,9 +89,21 @@
 
 **Journal**: *Journal of Oral Microbiology* 14(1): 2053389
 
-**DOI**: [](https://doi.org/)
+**DOI**: [10.1080/20002297.2022.2053389](https://doi.org/10.1080/20002297.2022.2053389)
 
 **Publisher**: Taylor \& Francis
+
+---
+
+### SCAPE: a mixture model revealing single-cell polyadenylation diversity and cellular dynamics during cell differentiation and reprogramming
+
+**Authors**: Zhou, Ran, Xiao, Xia, He, Ping, Zhao, Yuancun, Xu, Mengying, Zheng, Xiuran, Yang, Ruirui, Chen, Shasha, Zhou, Lifang, Zhang, Dan, others
+
+**Journal**: *Nucleic Acids Research* 50(11): e66--e66
+
+**DOI**: [10.1016/10.1093/nar/gkac167](https://doi.org/10.1016/10.1093/nar/gkac167)
+
+**Publisher**: Oxford University Press
 
 ---
 
@@ -104,7 +116,7 @@
 
 **Journal**: *Cell host \& microbe* 29(3): 489--502
 
-**DOI**: [](https://doi.org/)
+**DOI**: [10.1016/j.chom.2021.01.015](https://doi.org/10.1016/j.chom.2021.01.015)
 
 **Publisher**: Elsevier
 
