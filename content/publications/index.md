@@ -51,6 +51,7 @@
 
 ---
 
+<!-- 
 ### Driver gene detection via causal inference on single cell embeddings
 
 **Authors**: Fu, Chengbo, Cheng, Lu*
@@ -61,7 +62,8 @@
 
 **Publisher**: 19th conference on Computational Intelligence methods for Bioinformatics and Biostatistics
 
----
+--- 
+-->
 
 ### Phthalate exposure and subfecundity in preconception couples: A nested case-control study
 
@@ -80,7 +82,7 @@
 
 ### Serum APOC1 levels are decreased in young autoantibody positive children who rapidly progress to type 1 diabetes
 
-**Authors**: Hirvonen, M Karoliina, Lietzén, Niina, Moulder, Robert, Bhosale, Santosh D, Koskenniemi, Jaakko, Vähä-Mäkilä, Mari, Nurmio, Mirja, Orešič, Matej, Ilonen, Jorma, Toppari, Jorma, others
+**Authors**: M. Karoliina Hirvonen, Niina Lietzén, Robert Moulder, Santosh D. Bhosale, Jaakko Koskenniemi, Mari Vähä-Mäkilä, Mirja Nurmio, Matej Orešič, Jorma Ilonen, Jorma Toppari, Riitta Veijola, Heikki Hyöty, Harri Lähdesmäki, Mikael Knip, Lu Cheng*, Riitta Lahesmaa*
 
 **Journal**: *Scientific Reports* 13(1): 15941
 
