@@ -6,9 +6,9 @@ The Computational Genomics Lab focuses on developing statistical and machine lea
 
 We are dedicated to advancing the field of computational genomics through innovative approaches and cutting-edge research. Our work spans several key areas:
 
-- **Single Cell Biology**: Developing methods to analyze and interpret single-cell data
-- **Metagenomics**: Creating tools for studying microbial communities
-- **Epigenetics**: Investigating gene regulation and expression patterns
+- **Signal processing algorithms for Nanopore squencing**: Developing raw signal segmentation algorithm for Nanopore sequencing data, using it for various RNA modification estimation, RNA structure learning
+- **Large language models for single Cell Biology**: Developing LLMs to detect driver genes from single-cell data
+- **Epigenetics**: Investigating gene regulation and expression patterns, motif discovery for promoters and enhancers
 
 ## Latest News
 
@@ -19,8 +19,7 @@ We are dedicated to advancing the field of computational genomics through innova
 
 
 ### Upcoming Events
-- Lab Meeting: Every Monday at 2 PM
-- Journal Club: Every Friday at 3 PM
+- Lab Meeting: Every Wednesday at 10 AM
 
 ## Join Our Team
 
