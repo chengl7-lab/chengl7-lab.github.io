@@ -10,6 +10,10 @@ SegPore is a software to segment the raw Nanopore direct RNA sequence and to est
 
 KMAP is a statistical method for detecting kmer patterns and visualizing them in 2D space. 
 
+### [Stochastic alignment of Nanopore data](/projects/stochasticalignment)
+
+Stochastic alignment aims to find probabilistic relative segmentation of the raw signal.
+
 <!--
 ## Completed Projects
 
