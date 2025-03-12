@@ -4,7 +4,7 @@
 
 ### [Dr. Cheng Lu](/people/cheng-lu)
 **Position**: Principal Investigator (Academy Research Fellow)  
-**Email**: cheng.lu@aalto.fi  
+**Email**: lu dot cheng dot ac at gmail dot com
 **Research Interests**: Single cell bioinformatics, Metagenomics, Machine Learning, Bayesian statistics
 
 ## Current Members
@@ -30,17 +30,17 @@
 
 - [Guangzhao Cheng](/people/guangzhao-cheng)
   - Research Focus: RNA modification estimation using Nanopore data
-  - Email: guangzhao.cheng@aalto.fi
+  - Email: guangzhao dot cheng at aalto dot fi
 
 - [Chengbo Fu](/people/chengbo-fu)
   - Research Focus: LLM for scRNA-seq data, k-mer manifold
-  - Email: chengbo.fu@aalto.fi
+  - Email: chengbo dot fu at aalto dot fi
 
 
 ### Master Students
 - [Lassi Härtsiä](/people/lassi-hartsia)
   - Research Focus: Nanopore data analysis
-  - Email: lassi.hartsia@aalto.fi
+  - Email: lassi dot hartsia at aalto dot fi
 
 
 ## Alumni
