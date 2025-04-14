@@ -40,12 +40,18 @@ def create_publication_page(entry, output_dir):
 
 def generate_publications():
     """Generate publication index from BibTeX file."""
+    # Get the script's directory
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    # Construct paths relative to script location
+    bib_file = os.path.join(script_dir, '..', 'content', 'publications', 'publications.bib')
+    output_dir = os.path.join(script_dir, '..', 'content', 'publications')
+
     # Read BibTeX file
-    with open('../content/publications/publications.bib', 'r') as f:
+    with open(bib_file, 'r') as f:
         bib_database = bibtexparser.load(f)
 
     # Create output directory if it doesn't exist
-    output_dir = '../content/publications'
     os.makedirs(output_dir, exist_ok=True)
 
     # Group publications by year

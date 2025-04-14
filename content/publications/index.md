@@ -18,21 +18,11 @@
 
 **Authors**: Fu, Chengbo, Niskanen, Einari A, Wei, Gong-Hong, Yang, Zhirong, Sanvicente-García, Marta, Güell, Marc, Cheng, Lu*
 
-**Journal**: *Genome Research(accepted, to appear)* 
+**Journal**: *Genome Research* 
 
-**DOI**: [10.1101/2024.04.12.589197](https://doi.org/10.1101/2024.04.12.589197)
+**DOI**: [10.1101/gr.279458.124](https://doi.org/10.1101/gr.279458.124)
 
 **Publisher**: Cold Spring Harbor Laboratory
-
----
-
-### Driver gene detection via causal inference on single cell embeddings 
-
-**Authors**: Chengbo Fu and Lu Cheng*
-
-**Journal**: *19th conference on Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB), 2024(accepted, to appear)* 
-
-**DOI**: [10.1101/2024.05.16.24307521](https://www.medrxiv.org/content/10.1101/2024.05.16.24307521v1.full.pdf)
 
 ---
 
@@ -45,25 +35,23 @@
 
 **Journal**: *Advances in Neural Information Processing Systems (NeurIPS)* 37
 
-**Link**: [NeurIPS Proceedings](https://papers.nips.cc/paper_files/paper/2024/hash/8bce223b376f52fb86a148097eebb10d-Abstract-Datasets_and_Benchmarks_Track.html)
+**DOI**: [](https://doi.org/)
 
 **Publisher**: Curran Associates, Inc.
 
 ---
 
-<!-- 
 ### Driver gene detection via causal inference on single cell embeddings
 
 **Authors**: Fu, Chengbo, Cheng, Lu*
 
-**Journal**: *CIBB(accepted, to appear)* 
+**Journal**: *CIBB* 
 
 **DOI**: [10.1101/2024.05.16.24307521](https://doi.org/10.1101/2024.05.16.24307521)
 
 **Publisher**: 19th conference on Computational Intelligence methods for Bioinformatics and Biostatistics
 
---- 
--->
+---
 
 ### Phthalate exposure and subfecundity in preconception couples: A nested case-control study
 
@@ -82,7 +70,7 @@
 
 ### Serum APOC1 levels are decreased in young autoantibody positive children who rapidly progress to type 1 diabetes
 
-**Authors**: M. Karoliina Hirvonen, Niina Lietzén, Robert Moulder, Santosh D. Bhosale, Jaakko Koskenniemi, Mari Vähä-Mäkilä, Mirja Nurmio, Matej Orešič, Jorma Ilonen, Jorma Toppari, Riitta Veijola, Heikki Hyöty, Harri Lähdesmäki, Mikael Knip, Lu Cheng*, Riitta Lahesmaa*
+**Authors**: Hirvonen, {M. Karoliina}, Niina Lietz{\'e}n, Robert Moulder, Bhosale, {Santosh D.}, Jaakko Koskenniemi, Mari V{\"a}h{\"a}-M{\"a}kil{\"a}, Mirja Nurmio, Matej Ore{\v s}i{\v c}, Jorma Ilonen, Jorma Toppari, Riitta Veijola, Heikki Hy{\"o}ty, Harri L{\"a}hdesm{\"a}ki, Mikael Knip, Lu Cheng, Riitta Lahesmaa
 
 **Journal**: *Scientific Reports* 13(1): 15941
 
@@ -135,3 +123,6 @@
 ---
 
 
+
+---
+*Last updated: April 2025*

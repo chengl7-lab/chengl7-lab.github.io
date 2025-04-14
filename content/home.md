@@ -13,7 +13,7 @@ We are dedicated to advancing the field of computational genomics through innova
 ## Latest News
 
 ### Recent Publications
-- [KMAP: Kmer Manifold Approximation and Projection for visualizing DNA sequences](https://www.genome.org/cgi/doi/10.1101/gr.279458.124) - Accepted by *Genome Research*!
+- [KMAP: Kmer Manifold Approximation and Projection for visualizing DNA sequences](https://genome.cshlp.org/content/early/2025/04/02/gr.279458.124) - Accepted by *Genome Research*!
 - [Raw signal segmentation for estimating RNA modifications and structures from Nanopore direct RNA sequencing data](https://elifesciences.org/reviewed-preprints/104618v1) - Accepted by *eLife*!
 - [NanoBaseLib: A Multi-Task Benchmark Dataset for Nanopore Sequencing](https://papers.nips.cc/paper_files/paper/2024/hash/8bce223b376f52fb86a148097eebb10d-Abstract-Datasets_and_Benchmarks_Track.html) - Accepted by *NeurIPS 2024*!
 
@@ -34,4 +34,4 @@ Please visit our [People](/people) page to learn more about current opportunitie
 
 
 ---
-*Last updated: March 2025*
+*Last updated: April 2025*
