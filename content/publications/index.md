@@ -10,6 +10,8 @@
 
 **DOI**: [10.7554/elife.104618.1](https://doi.org/10.7554/elife.104618.1)
 
+**URL**: [http://dx.doi.org/10.7554/eLife.104618.1](http://dx.doi.org/10.7554/eLife.104618.1)
+
 **Publisher**: eLife Sciences Publications, Ltd
 
 ---
@@ -35,7 +37,7 @@
 
 **Journal**: *Advances in Neural Information Processing Systems (NeurIPS)* 37
 
-**DOI**: [](https://doi.org/)
+**URL**: [https://proceedings.neurips.cc/paper_files/paper/2024/hash/8bce223b376f52fb86a148097eebb10d-Abstract-Datasets_and_Benchmarks_Track.html](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8bce223b376f52fb86a148097eebb10d-Abstract-Datasets_and_Benchmarks_Track.html)
 
 **Publisher**: Curran Associates, Inc.
 
@@ -48,6 +50,8 @@
 **Journal**: *CIBB* 
 
 **DOI**: [10.1101/2024.05.16.24307521](https://doi.org/10.1101/2024.05.16.24307521)
+
+**URL**: [https://link.springer.com/book/9783031897030](https://link.springer.com/book/9783031897030)
 
 **Publisher**: 19th conference on Computational Intelligence methods for Bioinformatics and Biostatistics
 

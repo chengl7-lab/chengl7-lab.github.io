@@ -11,6 +11,10 @@ def create_publication_page(entry, output_dir):
     # Format authors
     authors = entry.get('author', '').replace(' and ', ', ')
 
+    # Get URL if it exists
+    url = entry.get('url', '')
+    url_section = f"\n## URL\n[{url}]({url})" if url else ""
+
     # Create markdown content
     content = f"""# {entry['title']}
 
@@ -25,6 +29,7 @@ def create_publication_page(entry, output_dir):
 
 ## DOI
 [{entry.get('doi', '')}](https://doi.org/{entry.get('doi', '')})
+{url_section}
 
 ## Publisher
 {entry.get('publisher', '')}
@@ -79,6 +84,7 @@ def generate_publications():
             number = entry.get('number', '')
             pages = entry.get('pages', '')
             doi = entry.get('doi', '')
+            url = entry.get('url', '')
             publisher = entry.get('publisher', '')
 
             # Add publication details
@@ -88,7 +94,13 @@ def generate_publications():
                   index_content += f"**Journal**: *{journal}* {volume}({number}): {pages}\n\n"
             else:
                   index_content += f"**Journal**: *{journal}* {volume}\n\n"
-            index_content += f"**DOI**: [{doi}](https://doi.org/{doi})\n\n"
+            
+            # Add DOI and URL if they exist
+            if doi:
+                index_content += f"**DOI**: [{doi}](https://doi.org/{doi})\n\n"
+            if url:
+                index_content += f"**URL**: [{url}]({url})\n\n"
+            
             index_content += f"**Publisher**: {publisher}\n\n"
             index_content += "---\n\n"  # Add separator between publications
 
