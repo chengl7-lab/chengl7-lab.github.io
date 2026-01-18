@@ -3,6 +3,14 @@
 ## Latest Updates
 
 
+### [EIC Funding for Dr. Lu Cheng](https://www.uef.fi/en/article/uef-to-co-lead-a-major-eu-project-seeking-to-transform-protein-sequencing-technology)
+**Date**: Jan 15, 2025
+Dr. Lu Cheng got the prestigous European Innovation Council (EIC) Pathfinder Open 2025 funding as a co-PI for the RamanProSeq project, which aims to develop a nanopore device to sequence single protein molecules.
+
+### [SegPore work reported in UEF news](https://www.uef.fi/en/article/researchers-introduce-a-new-tool-for-more-accurate-rna-modification-detection-from-nanopore-signals)
+**Date**: Nov 06, 2025
+Our SegPore work was reported in the news of University of Eastern Finland (UEF).
+
 ### [One paper is accpeted by *eLife*!]()
 **Date**: Mar 07, 2025
 Our paper, Raw signal segmentation for estimating RNA modifications and structures from Nanopore direct RNA sequencing data, is accepted by eLife!
@@ -33,4 +41,4 @@ Our paper about oral microbiota in pregenant women is published in Journal of Or
 
 
 ---
-*Last updated: March 2025*
+*Last updated: January 2026*
