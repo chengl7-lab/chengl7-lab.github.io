@@ -11,6 +11,11 @@ We are dedicated to advancing the field of computational genomics through innova
 - **Epigenetics**: Investigating gene regulation and expression patterns, motif discovery for promoters and enhancers
 
 ## Latest News
+### [Recent News](./news/)
+- [EIC Funding for Dr. Lu Cheng](https://www.uef.fi/en/article/uef-to-co-lead-a-major-eu-project-seeking-to-transform-protein-sequencing-technology)
+**Date**: Jan 15, 2025
+Dr. Lu Cheng received the prestigious European Innovation Council (EIC) Pathfinder Open 2025 funding as a co-PI for RamanProSeq, which aims to develop a nanopore device for sequencing single protein molecules.
+
 
 ### Recent Publications
 - [KMAP: Kmer Manifold Approximation and Projection for visualizing DNA sequences](https://genome.cshlp.org/content/early/2025/04/02/gr.279458.124) - Accepted by *Genome Research*!
@@ -34,4 +39,4 @@ Please visit our [People](/people) page to learn more about current opportunitie
 
 
 ---
-*Last updated: April 2025*
+*Last updated: January 2026*
