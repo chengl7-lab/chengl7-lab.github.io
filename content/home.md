@@ -15,7 +15,7 @@ We are dedicated to advancing the field of computational genomics through innova
 - [EIC Funding for Dr. Lu Cheng](https://www.uef.fi/en/article/uef-to-co-lead-a-major-eu-project-seeking-to-transform-protein-sequencing-technology). Dr. Lu Cheng received the prestigious European Innovation Council (EIC) Pathfinder Open 2025 funding as a co-PI for RamanProSeq, which aims to develop a nanopore device for sequencing single protein molecules.
 
 
-### [Recent Publications](/projects)
+### [Recent Publications](/publications)
 - [KMAP: Kmer Manifold Approximation and Projection for visualizing DNA sequences](https://genome.cshlp.org/content/early/2025/04/02/gr.279458.124) - Accepted by *Genome Research*!
 - [Raw signal segmentation for estimating RNA modifications and structures from Nanopore direct RNA sequencing data](https://elifesciences.org/reviewed-preprints/104618v1) - Accepted by *eLife*!
 - [NanoBaseLib: A Multi-Task Benchmark Dataset for Nanopore Sequencing](https://papers.nips.cc/paper_files/paper/2024/hash/8bce223b376f52fb86a148097eebb10d-Abstract-Datasets_and_Benchmarks_Track.html) - Accepted by *NeurIPS 2024*!
