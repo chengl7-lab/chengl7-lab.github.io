@@ -5,7 +5,7 @@
 
 ### [EIC Funding for Dr. Lu Cheng](https://www.uef.fi/en/article/uef-to-co-lead-a-major-eu-project-seeking-to-transform-protein-sequencing-technology)
 **Date**: Jan 15, 2025
-Dr. Lu Cheng got the prestigous European Innovation Council (EIC) Pathfinder Open 2025 funding as a co-PI for the RamanProSeq project, which aims to develop a nanopore device to sequence single protein molecules.
+Dr. Lu Cheng received the prestigious European Innovation Council (EIC) Pathfinder Open 2025 funding as a co-PI for RamanProSeq, which aims to develop a nanopore device for sequencing single protein molecules.
 
 ### [SegPore work reported in UEF news](https://www.uef.fi/en/article/researchers-introduce-a-new-tool-for-more-accurate-rna-modification-detection-from-nanopore-signals)
 **Date**: Nov 06, 2025
